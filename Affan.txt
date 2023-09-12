@@ -1,2 +1,2 @@
 This is validate git for JS training
-update for branch4
+updating the file for Branch2
